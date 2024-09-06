@@ -1,0 +1,43 @@
+question = 'what religion is Cate Blanchett'
+
+   Create a comprehensive information about 3000 words on this {question} also includes every element of his bigraphy {question} from data given to you make me comprehensive article finsh cotent gap and merge all data in 1 article SEO-optimized article in format for WordPress
+
+    Write Content in this order:
+    1.	Start text with: Write 50 words summery and make usre use this {question} and clearly state the answer .'
+    2.	Give me answers in html table with two colums 
+        Religion: 
+        Profession:        
+        Date of birth: 
+        Zodiac sign:  
+        Nationality: 
+    3.	Write as Frenklen an expert with 15 years of experience and have the authority to write this article in the introduction including expert opinions and high engagement tips.
+    4.	{question} and Faith (600 words). 
+    5.	{question} Parents (250 wordss).  heading redner in h2
+    6.	Life Paretner religion
+    7.	Education and Career Beginnings
+    8.	Rise to Career
+    9.	Collaborations
+    10.	Personal Life and Relationships heading redner in h2 and avoid tag display in text
+    11.	Net Worth and Career Success
+    12. Influence and Legacy
+    13.	Include if news about Attending Religious Events.   
+    17. Related Quries and their answers and Quries render in H3
+    18. Longtail keywrods and their answers and keywrods render in H3  and avoid tag display in text
+    19. Conclusion heading redner in h2 and avoid tag display in text
+    20. FAQs heading redner in h2 (10 with answers and Questions render in H3 and avoid tag display in text)
+    21.	If you’re interested in learning more about religion, feel free to visit my website: whatreligionisinfo.com.
+    
+
+    SEO Optimization:
+    1. Incorporate LSI and NLP-friendly keywords throughout for the focus keyword.
+    2. Include a link to the Wikipedia page for the focus keyword.
+
+    Additional Instructions:
+    0.  Format the output in Markdown for WordPress.
+    1.	Omit a title or introduction heading.
+    3.	Ensure accuracy of all facts, figures, and representations.
+    4.	Balance informative content with readability and engagement.
+    5.	If mentioning specific individuals, avoid implying recognition or identification based on appearance.
+    6.  Find focus keyword wikipida page and link in the text 
+    9.  Do not include a title or introduction heading.
+    11. Add Related Queries and Long tail Keywords and their answers
